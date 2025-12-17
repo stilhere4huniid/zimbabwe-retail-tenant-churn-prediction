@@ -1,0 +1,454 @@
+tenant_id,tenant_name,property_id,location,category,monthly_rent_usd,avg_monthly_sales_usd,rent_to_sales_ratio,churn_probability_ml,risk_category_ml,months_until_lease_end,late_payments_ytd,power_outages_this_month,risk_score
+T0461,Store_461,P004,Harare-Northeast,Mobile/Telecom,3251.18,12978.75,0.2505,0.9994635781766695,Critical Risk,-55.0,0,14,6.5
+T0284,Store_284,P015,Bulawayo,Grocery/Food,2479.85,951.28,1.0,0.9994582527503808,Critical Risk,-51.0,2,14,8.5
+T0441,Store_441,P007,Harare-Avondale,Fashion/Clothing,8736.82,3044.69,1.0,0.9994582527503808,Critical Risk,-43.0,2,14,6.5
+T0215,Store_215,P010,Harare-Westgate,Services,1651.29,1558.76,1.0,0.9994582527503808,Critical Risk,-51.0,0,14,8.5
+T0374,Store_374,P013,Harare CBD,Electronics,2215.56,3287.99,0.6738,0.9994582527503808,Critical Risk,-59.0,1,14,6.5
+T0217,Store_217,P015,Bulawayo,Grocery/Food,1553.17,630.3,1.0,0.9994582527503808,Critical Risk,-58.0,2,14,8.5
+T0221,Store_221,P011,Harare-Groombridge,Grocery/Food,4463.31,1252.39,1.0,0.9994582527503808,Critical Risk,-49.0,3,14,11.0
+T0436,Store_436,P015,Bulawayo,Fashion/Clothing,1482.5,2708.46,0.5474,0.9994582527503808,Critical Risk,-41.0,2,14,6.5
+T0336,Store_336,P001,Harare-Borrowdale,Pharmacy/Health,2299.64,1349.34,1.0,0.9994582527503808,Critical Risk,-47.0,1,14,8.5
+T0223,Store_223,P002,Harare-Borrowdale,Home Goods,2589.94,2370.59,1.0,0.9994582527503808,Critical Risk,-39.0,1,14,6.5
+T0224,Store_224,P008,Harare-Greenfield,Pharmacy/Health,3743.82,1643.95,1.0,0.9994582527503808,Critical Risk,-47.0,0,14,8.5
+T0225,Store_225,P012,Harare-Suburban,Services,3272.38,2514.98,1.0,0.9994582527503808,Critical Risk,-48.0,0,14,6.5
+T0375,Store_375,P004,Harare-Northeast,Fashion/Clothing,2318.29,1123.84,1.0,0.9994582527503808,Critical Risk,-53.0,0,14,8.5
+T0404,Store_404,P011,Harare-Groombridge,Fashion/Clothing,1720.37,2055.94,0.8368,0.9994582527503808,Critical Risk,-52.0,0,14,6.5
+T0074,Store_74,P011,Harare-Groombridge,Pharmacy/Health,1828.95,860.49,1.0,0.9994582527503808,Critical Risk,-39.0,0,14,8.5
+T0228,Store_228,P008,Harare-Greenfield,Electronics,1790.74,3035.39,0.59,0.9994582527503808,Critical Risk,-51.0,0,14,6.5
+T0071,Store_71,P010,Harare-Westgate,Fashion/Clothing,1457.08,4052.77,0.3595,0.9994582527503808,Critical Risk,-51.0,0,14,5.5
+T0342,Store_342,P001,Harare-Borrowdale,Fashion/Clothing,6591.85,3410.55,1.0,0.9994582527503808,Critical Risk,-46.0,5,14,9.0
+T0448,Store_448,P010,Harare-Westgate,Fashion/Clothing,1538.8,3654.67,0.4211,0.9994582527503808,Critical Risk,-43.0,2,14,6.5
+T0061,Store_61,P013,Harare CBD,Fashion/Clothing,2206.97,2847.83,0.775,0.9994582527503808,Critical Risk,-44.0,0,14,6.5
+T0452,Store_452,P015,Bulawayo,Fashion/Clothing,1265.12,2594.11,0.4877,0.9994582527503808,Critical Risk,-40.0,2,14,6.5
+T0095,Store_95,P009,Harare-Greendale,Home Goods,4114.36,1215.05,1.0,0.9994582527503808,Critical Risk,-56.0,0,14,8.5
+T0378,Store_378,P013,Harare CBD,Grocery/Food,3045.7,1595.23,1.0,0.9994582527503808,Critical Risk,-58.0,1,14,8.5
+T0237,Store_237,P012,Harare-Suburban,Grocery/Food,2190.18,1561.97,1.0,0.9994582527503808,Critical Risk,-60.0,0,14,8.5
+T0379,Store_379,P009,Harare-Greendale,Electronics,1458.14,3351.6,0.4351,0.9994582527503808,Critical Risk,-37.0,1,14,6.5
+T0149,Store_149,P011,Harare-Groombridge,Home Goods,6215.15,1768.64,1.0,0.9994582527503808,Critical Risk,-37.0,0,14,6.5
+T0153,Store_153,P015,Bulawayo,Grocery/Food,3586.94,495.43,1.0,0.9994582527503808,Critical Risk,-39.0,2,14,8.5
+T0160,Store_160,P011,Harare-Groombridge,Services,1469.86,1439.82,1.0,0.9994582527503808,Critical Risk,-53.0,4,14,11.0
+T0326,Store_326,P014,Harare CBD,Home Goods,3277.91,1709.27,1.0,0.9994582527503808,Critical Risk,-55.0,0,14,8.5
+T0134,Store_134,P012,Harare-Suburban,Fashion/Clothing,2920.07,1561.83,1.0,0.9994582527503808,Critical Risk,-55.0,1,14,8.5
+T0133,Store_133,P011,Harare-Groombridge,Grocery/Food,1724.21,1497.68,1.0,0.9994582527503808,Critical Risk,-39.0,1,14,8.5
+T0129,Store_129,P010,Harare-Westgate,Fashion/Clothing,2184.0,3346.46,0.6526,0.9994582527503808,Critical Risk,-48.0,1,14,6.5
+T0174,Store_174,P007,Harare-Avondale,Services,1578.29,766.81,1.0,0.9994582527503808,Critical Risk,-48.0,1,14,8.5
+T0127,Store_127,P012,Harare-Suburban,Grocery/Food,1516.79,1285.04,1.0,0.9994582527503808,Critical Risk,-42.0,1,14,8.5
+T0393,Store_393,P011,Harare-Groombridge,Grocery/Food,1575.54,621.4,1.0,0.9994582527503808,Critical Risk,-40.0,1,14,8.5
+T0391,Store_391,P006,Harare-Chisipite,Fashion/Clothing,3991.02,1667.18,1.0,0.9994582527503808,Critical Risk,-37.0,0,14,8.5
+T0190,Store_190,P003,Harare-Chisipite,Pharmacy/Health,2364.14,1957.74,1.0,0.9994582527503808,Critical Risk,-36.0,2,14,6.5
+T0300,Store_300,P007,Harare-Avondale,Home Goods,9085.5,1968.12,1.0,0.9994582527503808,Critical Risk,-59.0,0,14,6.5
+T0192,Store_192,P006,Harare-Chisipite,Home Goods,3337.37,4250.24,0.7852,0.9994582527503808,Critical Risk,-39.0,1,14,6.5
+T0196,Store_196,P015,Bulawayo,Services,5414.55,1401.51,1.0,0.9994582527503808,Critical Risk,-39.0,2,14,8.5
+T0198,Store_198,P009,Harare-Greendale,Grocery/Food,2202.89,1137.55,1.0,0.9994582527503808,Critical Risk,-52.0,0,14,8.5
+T0425,Store_425,P015,Bulawayo,Electronics,9196.25,3660.09,1.0,0.9994582527503808,Critical Risk,-50.0,0,14,6.5
+T0381,Store_381,P015,Bulawayo,Fashion/Clothing,3510.58,1599.19,1.0,0.9994582527503808,Critical Risk,-53.0,0,14,8.5
+T0380,Store_380,P007,Harare-Avondale,Home Goods,3808.49,3063.17,1.0,0.9994582527503808,Critical Risk,-47.0,0,14,6.5
+T0453,Store_453,P009,Harare-Greendale,Fashion/Clothing,2057.13,2244.58,0.9165,0.9994582527503808,Critical Risk,-45.0,0,14,6.5
+T0305,Store_305,P001,Harare-Borrowdale,Home Goods,6676.46,2315.19,1.0,0.9994582527503808,Critical Risk,-51.0,1,14,6.5
+T0036,Store_36,P001,Harare-Borrowdale,Pharmacy/Health,3208.77,1524.37,1.0,0.9994582527503808,Critical Risk,-47.0,0,14,8.5
+T0465,Store_465,P012,Harare-Suburban,Grocery/Food,1752.36,768.2,1.0,0.9994582527503808,Critical Risk,-42.0,1,14,8.5
+T0474,Store_474,P011,Harare-Groombridge,Electronics,1789.87,5761.33,0.3107,0.9994582527503808,Critical Risk,-47.0,4,14,9.0
+T0028,Store_28,P014,Harare CBD,Electronics,6660.33,3603.94,1.0,0.9994582527503808,Critical Risk,-43.0,4,14,9.0
+T0044,Store_44,P002,Harare-Borrowdale,Home Goods,9145.26,3912.06,1.0,0.9994582527503808,Critical Risk,-54.0,0,14,6.5
+T0354,Store_354,P011,Harare-Groombridge,Services,2150.16,1710.46,1.0,0.9994582527503808,Critical Risk,-42.0,0,14,8.5
+T0355,Store_355,P003,Harare-Chisipite,Services,3978.07,1711.9,1.0,0.9994582527503808,Critical Risk,-52.0,2,14,8.5
+T0038,Store_38,P015,Bulawayo,Electronics,8044.17,1933.13,1.0,0.9994582527503808,Critical Risk,-49.0,0,14,6.5
+T0033,Store_33,P011,Harare-Groombridge,Pharmacy/Health,1582.83,470.11,1.0,0.9994582527503808,Critical Risk,-40.0,1,14,8.5
+T0014,Store_14,P007,Harare-Avondale,Pharmacy/Health,1740.18,888.63,1.0,0.9994582527503808,Critical Risk,-50.0,2,14,8.5
+T0004,Store_4,P010,Harare-Westgate,Fashion/Clothing,1576.62,3033.85,0.5197,0.9994582527503808,Critical Risk,-45.0,1,14,6.5
+T0290,Store_290,P014,Harare CBD,Fashion/Clothing,2059.43,1519.67,1.0,0.9994582527503808,Critical Risk,-44.0,2,14,8.5
+T0292,Store_292,P015,Bulawayo,Fashion/Clothing,3777.05,2053.71,1.0,0.9994582527503808,Critical Risk,-45.0,0,14,6.5
+T0242,Store_242,P008,Harare-Greenfield,Fashion/Clothing,2613.93,1889.13,1.0,0.9994582527503808,Critical Risk,-54.0,1,14,6.5
+T0263,Store_263,P011,Harare-Groombridge,Electronics,2606.31,3466.74,0.7518,0.9994582527503808,Critical Risk,-47.0,1,14,6.5
+T0050,Store_50,P007,Harare-Avondale,Pharmacy/Health,4363.6,2067.97,1.0,0.9994582527503808,Critical Risk,-56.0,3,14,9.0
+T0012,Store_12,P006,Harare-Chisipite,Mobile/Telecom,3401.77,3586.7,0.9484,0.9994582527503808,Critical Risk,-59.0,1,14,6.5
+T0259,Store_259,P003,Harare-Chisipite,Fashion/Clothing,5259.36,10805.34,0.4867,0.9994466526628859,Critical Risk,-57.0,0,14,6.5
+T0032,Store_32,P002,Harare-Borrowdale,Grocery/Food,1434.79,1323.73,1.0,0.9994465241377098,Critical Risk,-52.0,2,14,8.5
+T0339,Store_339,P001,Harare-Borrowdale,Home Goods,1293.51,3841.18,0.3367,0.9994465241377098,Critical Risk,-44.0,1,14,6.5
+T0125,Store_125,P008,Harare-Greenfield,Pharmacy/Health,878.48,1368.02,0.6422,0.9994465241377098,Critical Risk,-56.0,1,14,8.5
+T0172,Store_172,P006,Harare-Chisipite,Grocery/Food,1546.58,1277.01,1.0,0.9994465241377098,Critical Risk,-37.0,2,14,8.5
+T0053,Store_53,P007,Harare-Avondale,Fashion/Clothing,1051.35,1360.26,0.7729,0.9994465241377098,Critical Risk,-48.0,1,14,8.5
+T0430,Store_430,P014,Harare CBD,Services,1369.53,2883.19,0.475,0.9994465241377098,Critical Risk,-44.0,0,14,6.5
+T0310,Store_310,P002,Harare-Borrowdale,Grocery/Food,1476.99,2176.15,0.6787,0.9994465241377098,Critical Risk,-43.0,2,14,6.5
+T0200,Store_200,P014,Harare CBD,Services,1480.46,1581.55,0.9361,0.9994465241377098,Critical Risk,-40.0,0,14,8.5
+T0432,Store_432,P001,Harare-Borrowdale,Grocery/Food,1390.81,1046.15,1.0,0.9994465241377098,Critical Risk,-45.0,2,14,8.5
+T0318,Store_318,P007,Harare-Avondale,Fashion/Clothing,996.89,1674.71,0.5953,0.9994465241377098,Critical Risk,-42.0,1,14,8.5
+T0018,Store_18,P007,Harare-Avondale,Grocery/Food,1140.42,860.06,1.0,0.9994465241377098,Critical Risk,-41.0,0,14,8.5
+T0163,Store_163,P010,Harare-Westgate,Fashion/Clothing,1128.74,2365.42,0.4772,0.9994465241377098,Critical Risk,-44.0,1,14,6.5
+T0335,Store_335,P011,Harare-Groombridge,Fashion/Clothing,892.9,1931.94,0.4622,0.9994465241377098,Critical Risk,-44.0,1,14,6.5
+T0443,Store_443,P013,Harare CBD,Pharmacy/Health,1130.52,1739.58,0.6499,0.9994465241377098,Critical Risk,-54.0,0,14,6.5
+T0145,Store_145,P009,Harare-Greendale,Pharmacy/Health,1037.12,1519.99,0.6823,0.9994465241377098,Critical Risk,-48.0,1,14,8.5
+T0273,Store_273,P015,Bulawayo,Fashion/Clothing,890.85,1794.99,0.4963,0.9994465241377098,Critical Risk,-45.0,1,14,6.5
+T0463,Store_463,P006,Harare-Chisipite,Electronics,1538.95,5715.44,0.2693,0.9994465241377098,Critical Risk,-50.0,0,14,6.5
+T0235,Store_235,P012,Harare-Suburban,Grocery/Food,3480.42,2549.45,1.0,0.9994431854680615,Critical Risk,-43.0,0,14,6.5
+T0023,Store_23,P011,Harare-Groombridge,Fashion/Clothing,1745.83,4116.65,0.4241,0.9994431854680615,Critical Risk,-43.0,1,14,6.5
+T0407,Store_407,P003,Harare-Chisipite,Fashion/Clothing,2189.55,2675.24,0.8184,0.9994431854680615,Critical Risk,-40.0,0,14,6.5
+T0045,Store_45,P003,Harare-Chisipite,Fashion/Clothing,3849.69,4862.69,0.7917,0.9994431854680615,Critical Risk,-56.0,0,14,6.5
+T0222,Store_222,P011,Harare-Groombridge,Grocery/Food,9089.96,1513.7,1.0,0.9994431854680615,Critical Risk,-51.0,4,14,11.0
+T0482,Store_482,P014,Harare CBD,Grocery/Food,3644.94,2212.23,1.0,0.9994431854680615,Critical Risk,-57.0,0,14,6.5
+T0400,Store_400,P013,Harare CBD,Pharmacy/Health,1738.8,2332.29,0.7455,0.9994431854680615,Critical Risk,-58.0,0,14,6.5
+T0091,Store_91,P009,Harare-Greendale,Pharmacy/Health,1861.71,2218.26,0.8393,0.9994431854680615,Critical Risk,-38.0,1,14,6.5
+T0031,Store_31,P003,Harare-Chisipite,Fashion/Clothing,2568.71,2932.9,0.8758,0.9994431854680615,Critical Risk,-41.0,1,14,6.5
+T0396,Store_396,P014,Harare CBD,Fashion/Clothing,4086.9,2856.44,1.0,0.9994431854680615,Critical Risk,-39.0,3,14,9.0
+T0164,Store_164,P009,Harare-Greendale,Fashion/Clothing,1905.14,6872.7,0.2772,0.999438661927742,Critical Risk,-36.0,1,14,6.5
+T0175,Store_175,P001,Harare-Borrowdale,Pharmacy/Health,9524.36,3556.01,1.0,0.999438661927742,Critical Risk,-45.0,2,14,6.5
+T0414,Store_414,P012,Harare-Suburban,Grocery/Food,2196.12,2378.79,0.9232,0.999438661927742,Critical Risk,-56.0,0,14,6.5
+T0398,Store_398,P008,Harare-Greenfield,Fashion/Clothing,4129.98,4585.41,0.9007,0.999438661927742,Critical Risk,-41.0,1,14,6.5
+T0276,Store_276,P012,Harare-Suburban,Fashion/Clothing,4096.84,4569.14,0.8966,0.999438661927742,Critical Risk,-40.0,1,14,6.5
+T0418,Store_418,P013,Harare CBD,Grocery/Food,7035.25,2819.03,1.0,0.999438661927742,Critical Risk,-51.0,1,14,6.5
+T0405,Store_405,P004,Harare-Northeast,Grocery/Food,5250.97,5176.79,1.0,0.999438661927742,Critical Risk,-36.0,0,14,6.5
+T0184,Store_184,P003,Harare-Chisipite,Fashion/Clothing,13876.44,4230.85,1.0,0.999438661927742,Critical Risk,-50.0,0,14,6.5
+T0267,Store_267,P011,Harare-Groombridge,Grocery/Food,1905.59,2188.11,0.8709,0.999438661927742,Critical Risk,-54.0,1,14,6.5
+T0351,Store_351,P013,Harare CBD,Fashion/Clothing,4306.0,6838.65,0.6297,0.999438661927742,Critical Risk,-47.0,2,14,6.5
+T0132,Store_132,P005,Harare-Mt Pleasant,Grocery/Food,13707.48,2505.83,1.0,0.999438661927742,Critical Risk,-46.0,0,14,6.5
+T0193,Store_193,P013,Harare CBD,Grocery/Food,2169.73,1442.04,1.0,0.999438661927742,Critical Risk,-41.0,0,14,8.5
+T0446,Store_446,P008,Harare-Greenfield,Fashion/Clothing,3391.94,5185.3,0.6541,0.999438661927742,Critical Risk,-53.0,3,14,9.0
+T0194,Store_194,P008,Harare-Greenfield,Grocery/Food,1369.19,2328.7,0.588,0.999438661927742,Critical Risk,-46.0,0,14,6.5
+T0037,Store_37,P014,Harare CBD,Fashion/Clothing,3012.55,3831.1,0.7863,0.999438661927742,Critical Risk,-40.0,0,14,6.5
+T0293,Store_293,P002,Harare-Borrowdale,Pharmacy/Health,10086.61,4711.24,1.0,0.999438661927742,Critical Risk,-49.0,0,14,6.5
+T0232,Store_232,P002,Harare-Borrowdale,Pharmacy/Health,6694.78,1699.08,1.0,0.999438661927742,Critical Risk,-45.0,0,14,8.5
+T0060,Store_60,P009,Harare-Greendale,Mobile/Telecom,2244.94,8269.9,0.2715,0.999438661927742,Critical Risk,-55.0,2,14,6.5
+T0360,Store_360,P013,Harare CBD,Pharmacy/Health,8762.22,3669.18,1.0,0.999438661927742,Critical Risk,-50.0,2,14,6.5
+T0063,Store_63,P001,Harare-Borrowdale,Grocery/Food,2523.31,2198.4,1.0,0.999438661927742,Critical Risk,-59.0,2,14,6.5
+T0316,Store_316,P003,Harare-Chisipite,Grocery/Food,3067.73,2690.96,1.0,0.999438661927742,Critical Risk,-57.0,0,14,6.5
+T0329,Store_329,P006,Harare-Chisipite,Grocery/Food,2682.84,3890.81,0.6895,0.999438661927742,Critical Risk,-47.0,2,14,6.5
+T0069,Store_69,P007,Harare-Avondale,Grocery/Food,3194.76,1917.56,1.0,0.999438661927742,Critical Risk,-50.0,3,14,9.0
+T0070,Store_70,P003,Harare-Chisipite,Services,4156.41,7260.93,0.5724,0.999438661927742,Critical Risk,-52.0,0,14,6.5
+T0447,Store_447,P012,Harare-Suburban,Fashion/Clothing,1811.44,2174.72,0.833,0.999438661927742,Critical Risk,-58.0,0,14,6.5
+T0247,Store_247,P010,Harare-Westgate,Grocery/Food,1408.47,1717.17,0.8202,0.999438661927742,Critical Risk,-58.0,4,14,11.0
+T0296,Store_296,P014,Harare CBD,Grocery/Food,2272.09,3212.73,0.7072,0.999438661927742,Critical Risk,-42.0,1,14,6.5
+T0114,Store_114,P014,Harare CBD,Grocery/Food,1858.42,4959.99,0.3747,0.999438661927742,Critical Risk,-54.0,0,14,6.5
+T0040,Store_40,P003,Harare-Chisipite,Grocery/Food,2387.19,4631.68,0.5154,0.999438661927742,Critical Risk,-47.0,1,14,6.5
+T0002,Store_2,P009,Harare-Greendale,Grocery/Food,1900.18,3543.41,0.5363,0.999438661927742,Critical Risk,-57.0,0,14,6.5
+T0439,Store_439,P002,Harare-Borrowdale,Fashion/Clothing,2249.5,5431.44,0.4142,0.999438661927742,Critical Risk,-36.0,1,14,6.5
+T0092,Store_92,P008,Harare-Greenfield,Grocery/Food,1451.64,3923.13,0.37,0.999438661927742,Critical Risk,-56.0,2,14,6.5
+T0249,Store_249,P008,Harare-Greenfield,Grocery/Food,1430.69,1813.79,0.7888,0.999438661927742,Critical Risk,-54.0,1,14,6.5
+T0254,Store_254,P013,Harare CBD,Fashion/Clothing,3417.55,5518.39,0.6193,0.999438661927742,Critical Risk,-52.0,0,14,6.5
+T0260,Store_260,P008,Harare-Greenfield,Grocery/Food,2780.82,4221.01,0.6588,0.999438661927742,Critical Risk,-56.0,1,14,6.5
+T0204,Store_204,P009,Harare-Greendale,Grocery/Food,1433.77,3354.68,0.4274,0.999438661927742,Critical Risk,-40.0,2,14,6.5
+T0108,Store_108,P014,Harare CBD,Fashion/Clothing,1626.94,5985.71,0.2718,0.999438661927742,Critical Risk,-44.0,3,14,9.0
+T0262,Store_262,P001,Harare-Borrowdale,Fashion/Clothing,4760.99,7497.27,0.635,0.999438661927742,Critical Risk,-56.0,1,14,6.5
+T0111,Store_111,P002,Harare-Borrowdale,Grocery/Food,3057.34,1851.01,1.0,0.999438661927742,Critical Risk,-57.0,0,14,6.5
+T0252,Store_252,P008,Harare-Greenfield,Pharmacy/Health,1140.33,2664.46,0.428,0.9994311308403822,Critical Risk,-40.0,0,14,6.5
+T0450,Store_450,P004,Harare-Northeast,Fashion/Clothing,1280.9,2424.98,0.5282,0.9994311308403822,Critical Risk,-48.0,1,14,6.5
+T0304,Store_304,P011,Harare-Groombridge,Pharmacy/Health,994.95,1860.71,0.5347,0.9994311308403822,Critical Risk,-54.0,0,14,6.5
+T0494,Store_494,P011,Harare-Groombridge,Fashion/Clothing,1014.01,2201.49,0.4606,0.9994311308403822,Critical Risk,-49.0,1,14,6.5
+T0270,Store_270,P005,Harare-Mt Pleasant,Grocery/Food,1291.37,2657.54,0.4859,0.9994265094249145,Critical Risk,-40.0,1,14,6.5
+T0240,Store_240,P001,Harare-Borrowdale,Pharmacy/Health,1292.55,2403.54,0.5378,0.9994265094249145,Critical Risk,-44.0,1,14,6.5
+T0406,Store_406,P006,Harare-Chisipite,Grocery/Food,1636.39,5058.45,0.3235,0.9994265094249145,Critical Risk,-44.0,1,14,6.5
+T0121,Store_121,P009,Harare-Greendale,Grocery/Food,1103.46,2562.28,0.4307,0.9994265094249145,Critical Risk,-54.0,1,14,6.5
+T0117,Store_117,P001,Harare-Borrowdale,Pharmacy/Health,1412.65,1684.1,0.8388,0.9994265094249145,Critical Risk,-47.0,0,14,8.5
+T0147,Store_147,P004,Harare-Northeast,Fashion/Clothing,2538.94,1519.44,1.0,0.9994107382992621,Critical Risk,-44.0,2,14,8.5
+T0319,Store_319,P010,Harare-Westgate,Pharmacy/Health,3130.27,1107.76,1.0,0.9994107382992621,Critical Risk,-22.0,3,14,11.0
+T0047,Store_47,P011,Harare-Groombridge,Fashion/Clothing,1640.18,3342.75,0.4907,0.9994107382992621,Critical Risk,-31.0,0,14,6.5
+T0048,Store_48,P008,Harare-Greenfield,Grocery/Food,4338.35,1319.31,1.0,0.9994107382992621,Critical Risk,-24.0,0,14,8.5
+T0361,Store_361,P011,Harare-Groombridge,Pharmacy/Health,2586.05,927.84,1.0,0.9994107382992621,Critical Risk,-32.0,2,14,8.5
+T0243,Store_243,P013,Harare CBD,Services,3316.19,2143.2,1.0,0.9994107382992621,Critical Risk,-26.0,0,14,6.5
+T0049,Store_49,P010,Harare-Westgate,Services,6453.14,757.39,1.0,0.9994107382992621,Critical Risk,-40.0,3,14,11.0
+T0364,Store_364,P015,Bulawayo,Grocery/Food,1295.26,1172.64,1.0,0.9994107382992621,Critical Risk,-23.0,1,14,8.5
+T0460,Store_460,P004,Harare-Northeast,Fashion/Clothing,15809.57,2036.38,1.0,0.9994107382992621,Critical Risk,-25.0,1,14,6.5
+T0294,Store_294,P004,Harare-Northeast,Pharmacy/Health,2251.1,981.98,1.0,0.9994107382992621,Critical Risk,-22.0,2,14,8.5
+T0366,Store_366,P003,Harare-Chisipite,Electronics,4452.1,3203.19,1.0,0.9994107382992621,Critical Risk,-23.0,1,14,6.5
+T0459,Store_459,P012,Harare-Suburban,Fashion/Clothing,2973.86,3154.37,0.9428,0.9994107382992621,Critical Risk,-26.0,1,14,6.5
+T0458,Store_458,P014,Harare CBD,Grocery/Food,6739.98,660.73,1.0,0.9994107382992621,Critical Risk,-45.0,0,14,8.5
+T0370,Store_370,P010,Harare-Westgate,Home Goods,5977.08,1095.89,1.0,0.9994107382992621,Critical Risk,-45.0,0,14,8.5
+T0233,Store_233,P006,Harare-Chisipite,Fashion/Clothing,5124.79,1890.35,1.0,0.9994107382992621,Critical Risk,-29.0,2,14,6.5
+T0059,Store_59,P006,Harare-Chisipite,Home Goods,2599.98,2553.74,1.0,0.9994107382992621,Critical Risk,-32.0,2,14,6.5
+T0231,Store_231,P010,Harare-Westgate,Fashion/Clothing,1583.2,1181.73,1.0,0.9994107382992621,Critical Risk,-23.0,0,14,8.5
+T0230,Store_230,P005,Harare-Mt Pleasant,Home Goods,6946.77,1927.91,1.0,0.9994107382992621,Critical Risk,-34.0,0,14,6.5
+T0067,Store_67,P014,Harare CBD,Mobile/Telecom,1725.18,5715.29,0.3019,0.9994107382992621,Critical Risk,-30.0,2,14,6.5
+T0313,Store_313,P013,Harare CBD,Fashion/Clothing,3294.63,1021.28,1.0,0.9994107382992621,Critical Risk,-31.0,0,14,8.5
+T0075,Store_75,P007,Harare-Avondale,Fashion/Clothing,5864.73,1766.78,1.0,0.9994107382992621,Critical Risk,-22.0,3,14,9.0
+T0372,Store_372,P014,Harare CBD,Services,2077.53,4280.84,0.4853,0.9994107382992621,Critical Risk,-29.0,0,14,6.5
+T0444,Store_444,P012,Harare-Suburban,Electronics,3812.06,3901.93,0.977,0.9994107382992621,Critical Risk,-33.0,0,14,6.5
+T0080,Store_80,P011,Harare-Groombridge,Fashion/Clothing,6353.08,3134.2,1.0,0.9994107382992621,Critical Risk,-14.0,1,14,6.5
+T0082,Store_82,P014,Harare CBD,Fashion/Clothing,2821.83,3898.25,0.7239,0.9994107382992621,Critical Risk,-29.0,0,14,6.5
+T0440,Store_440,P004,Harare-Northeast,Fashion/Clothing,2839.97,1738.76,1.0,0.9994107382992621,Critical Risk,-35.0,2,14,8.5
+T0087,Store_87,P013,Harare CBD,Electronics,2264.06,6882.63,0.329,0.9994107382992621,Critical Risk,-33.0,0,14,6.5
+T0472,Store_472,P008,Harare-Greenfield,Home Goods,3882.89,1571.21,1.0,0.9994107382992621,Critical Risk,-30.0,0,14,8.5
+T0250,Store_250,P008,Harare-Greenfield,Home Goods,1827.08,2814.08,0.6493,0.9994107382992621,Critical Risk,-29.0,1,14,5.5
+T0218,Store_218,P008,Harare-Greenfield,Fashion/Clothing,2095.43,3184.64,0.658,0.9994107382992621,Critical Risk,-21.0,0,14,6.5
+T0269,Store_269,P009,Harare-Greendale,Pharmacy/Health,1792.96,1676.11,1.0,0.9994107382992621,Critical Risk,-24.0,1,14,8.5
+T0344,Store_344,P010,Harare-Westgate,Fashion/Clothing,3155.49,1761.39,1.0,0.9994107382992621,Critical Risk,-25.0,0,14,6.5
+T0289,Store_289,P005,Harare-Mt Pleasant,Fashion/Clothing,2580.0,3104.99,0.8309,0.9994107382992621,Critical Risk,-26.0,0,14,6.5
+T0281,Store_281,P010,Harare-Westgate,Fashion/Clothing,1594.16,1384.16,1.0,0.9994107382992621,Critical Risk,-38.0,0,14,8.5
+T0279,Store_279,P011,Harare-Groombridge,Mobile/Telecom,6223.2,2367.39,1.0,0.9994107382992621,Critical Risk,-43.0,0,14,6.5
+T0499,Store_499,P001,Harare-Borrowdale,Services,2745.24,4939.77,0.5557,0.9994107382992621,Critical Risk,-40.0,1,14,6.5
+T0006,Store_6,P010,Harare-Westgate,Mobile/Telecom,2212.98,1888.42,1.0,0.9994107382992621,Critical Risk,-34.0,1,14,6.5
+T0352,Store_352,P012,Harare-Suburban,Mobile/Telecom,2175.56,5350.16,0.4066,0.9994107382992621,Critical Risk,-34.0,1,14,6.5
+T0353,Store_353,P004,Harare-Northeast,Services,2501.86,1108.06,1.0,0.9994107382992621,Critical Risk,-37.0,0,14,8.5
+T0327,Store_327,P005,Harare-Mt Pleasant,Grocery/Food,2222.91,1265.74,1.0,0.9994107382992621,Critical Risk,-39.0,1,14,8.5
+T0497,Store_497,P008,Harare-Greenfield,Electronics,2139.8,7069.4,0.3027,0.9994107382992621,Critical Risk,-25.0,3,14,9.0
+T0009,Store_9,P007,Harare-Avondale,Fashion/Clothing,1396.34,1574.83,0.8867,0.9994107382992621,Critical Risk,-23.0,2,14,8.5
+T0010,Store_10,P010,Harare-Westgate,Mobile/Telecom,9663.48,5748.05,1.0,0.9994107382992621,Critical Risk,-46.0,1,14,6.5
+T0496,Store_496,P003,Harare-Chisipite,Pharmacy/Health,5687.92,1527.52,1.0,0.9994107382992621,Critical Risk,-26.0,1,14,8.5
+T0477,Store_477,P008,Harare-Greenfield,Fashion/Clothing,1691.71,3121.47,0.542,0.9994107382992621,Critical Risk,-30.0,0,14,6.5
+T0015,Store_15,P014,Harare CBD,Mobile/Telecom,2301.88,2034.65,1.0,0.9994107382992621,Critical Risk,-33.0,1,14,6.5
+T0491,Store_491,P006,Harare-Chisipite,Electronics,2347.08,4718.65,0.4974,0.9994107382992621,Critical Risk,-24.0,2,14,6.5
+T0265,Store_265,P009,Harare-Greendale,Mobile/Telecom,3278.12,5302.36,0.6182,0.9994107382992621,Critical Risk,-45.0,1,14,6.5
+T0359,Store_359,P007,Harare-Avondale,Electronics,2987.52,3177.46,0.9402,0.9994107382992621,Critical Risk,-30.0,1,14,6.5
+T0487,Store_487,P013,Harare CBD,Fashion/Clothing,1830.36,4167.9,0.4392,0.9994107382992621,Critical Risk,-36.0,4,14,9.0
+T0322,Store_322,P015,Bulawayo,Fashion/Clothing,1348.87,2181.89,0.6182,0.9994107382992621,Critical Risk,-34.0,2,14,6.5
+T0321,Store_321,P002,Harare-Borrowdale,Fashion/Clothing,3052.66,2147.13,1.0,0.9994107382992621,Critical Risk,-46.0,2,14,6.5
+T0258,Store_258,P008,Harare-Greenfield,Fashion/Clothing,2759.26,1020.89,1.0,0.9994107382992621,Critical Risk,-38.0,0,14,8.5
+T0256,Store_256,P001,Harare-Borrowdale,Pharmacy/Health,2261.0,1092.38,1.0,0.9994107382992621,Critical Risk,-31.0,1,14,8.5
+T0255,Store_255,P013,Harare CBD,Grocery/Food,5596.59,2328.32,1.0,0.9994107382992621,Critical Risk,-33.0,0,14,6.5
+T0320,Store_320,P009,Harare-Greendale,Mobile/Telecom,1470.32,2054.05,0.7158,0.9994107382992621,Critical Risk,-41.0,2,14,6.5
+T0253,Store_253,P011,Harare-Groombridge,Electronics,9819.22,4419.28,1.0,0.9994107382992621,Critical Risk,-35.0,3,14,9.0
+T0219,Store_219,P009,Harare-Greendale,Services,1826.74,2643.39,0.6911,0.9994107382992621,Critical Risk,-32.0,0,14,6.5
+T0435,Store_435,P008,Harare-Greenfield,Pharmacy/Health,2129.63,1962.83,1.0,0.9994107382992621,Critical Risk,-35.0,2,14,6.5
+T0146,Store_146,P007,Harare-Avondale,Services,3236.07,4878.73,0.6633,0.9994107382992621,Critical Risk,-47.0,1,14,6.5
+T0168,Store_168,P008,Harare-Greenfield,Pharmacy/Health,1830.94,465.87,1.0,0.9994107382992621,Critical Risk,-15.0,1,14,8.5
+T0183,Store_183,P010,Harare-Westgate,Services,1671.35,460.18,1.0,0.9994107382992621,Critical Risk,-20.0,1,14,8.5
+T0182,Store_182,P011,Harare-Groombridge,Fashion/Clothing,2118.28,1521.11,1.0,0.9994107382992621,Critical Risk,-43.0,1,14,7.5
+T0181,Store_181,P013,Harare CBD,Services,2690.88,2710.55,0.9927,0.9994107382992621,Critical Risk,-32.0,4,14,9.0
+T0122,Store_122,P015,Bulawayo,Grocery/Food,1624.5,1450.99,1.0,0.9994107382992621,Critical Risk,-33.0,1,14,8.5
+T0177,Store_177,P003,Harare-Chisipite,Grocery/Food,2298.5,1958.22,1.0,0.9994107382992621,Critical Risk,-22.0,1,14,6.5
+T0394,Store_394,P003,Harare-Chisipite,Pharmacy/Health,2737.48,829.49,1.0,0.9994107382992621,Critical Risk,-39.0,2,14,8.5
+T0124,Store_124,P009,Harare-Greendale,Fashion/Clothing,1392.28,2496.38,0.5577,0.9994107382992621,Critical Risk,-44.0,3,14,9.0
+T0413,Store_413,P010,Harare-Westgate,Services,1369.19,1624.83,0.8427,0.9994107382992621,Critical Risk,-29.0,1,14,8.5
+T0173,Store_173,P015,Bulawayo,Home Goods,1221.34,1011.03,1.0,0.9994107382992621,Critical Risk,-31.0,2,14,8.5
+T0131,Store_131,P013,Harare CBD,Fashion/Clothing,2398.1,2982.44,0.8041,0.9994107382992621,Critical Risk,-28.0,0,14,6.5
+T0412,Store_412,P001,Harare-Borrowdale,Services,2566.17,4987.14,0.5146,0.9994107382992621,Critical Risk,-21.0,0,14,6.5
+T0169,Store_169,P006,Harare-Chisipite,Fashion/Clothing,2519.61,1876.27,1.0,0.9994107382992621,Critical Risk,-44.0,1,14,6.5
+T0308,Store_308,P008,Harare-Greenfield,Pharmacy/Health,1944.08,1385.25,1.0,0.9994107382992621,Critical Risk,-24.0,0,14,8.5
+T0093,Store_93,P012,Harare-Suburban,Grocery/Food,3175.18,596.34,1.0,0.9994107382992621,Critical Risk,-30.0,2,14,8.5
+T0166,Store_166,P010,Harare-Westgate,Grocery/Food,2740.47,523.13,1.0,0.9994107382992621,Critical Risk,-20.0,0,14,8.5
+T0139,Store_139,P014,Harare CBD,Pharmacy/Health,7698.54,2323.68,1.0,0.9994107382992621,Critical Risk,-13.0,0,14,6.5
+T0140,Store_140,P008,Harare-Greenfield,Pharmacy/Health,1510.13,1526.86,0.989,0.9994107382992621,Critical Risk,-35.0,2,14,8.5
+T0337,Store_337,P012,Harare-Suburban,Fashion/Clothing,3267.96,1737.04,1.0,0.9994107382992621,Critical Risk,-28.0,1,14,8.5
+T0408,Store_408,P009,Harare-Greendale,Electronics,1685.15,4105.06,0.4105,0.9994107382992621,Critical Risk,-45.0,0,14,6.5
+T0161,Store_161,P002,Harare-Borrowdale,Electronics,2477.48,5796.4,0.4274,0.9994107382992621,Critical Risk,-19.0,0,14,6.5
+T0285,Store_285,P007,Harare-Avondale,Fashion/Clothing,3290.14,1671.6,1.0,0.9994107382992621,Critical Risk,-42.0,0,14,8.5
+T0159,Store_159,P010,Harare-Westgate,Fashion/Clothing,1546.83,2200.17,0.7031,0.9994107382992621,Critical Risk,-35.0,1,14,6.5
+T0158,Store_158,P014,Harare CBD,Pharmacy/Health,8122.19,989.99,1.0,0.9994107382992621,Critical Risk,-45.0,2,14,8.5
+T0157,Store_157,P013,Harare CBD,Electronics,1953.84,5663.85,0.345,0.9994107382992621,Critical Risk,-32.0,1,14,6.5
+T0303,Store_303,P014,Harare CBD,Home Goods,2492.57,2293.05,1.0,0.9994107382992621,Critical Risk,-23.0,2,14,6.5
+T0155,Store_155,P005,Harare-Mt Pleasant,Pharmacy/Health,6981.36,1509.62,1.0,0.9994107382992621,Critical Risk,-36.0,1,14,8.5
+T0392,Store_392,P011,Harare-Groombridge,Pharmacy/Health,2572.47,731.11,1.0,0.9994107382992621,Critical Risk,-45.0,0,14,8.5
+T0186,Store_186,P002,Harare-Borrowdale,Grocery/Food,3135.94,1520.93,1.0,0.9994107382992621,Critical Risk,-33.0,1,14,8.5
+T0309,Store_309,P015,Bulawayo,Pharmacy/Health,1664.12,777.06,1.0,0.9994107382992621,Critical Risk,-45.0,0,14,8.5
+T0188,Store_188,P001,Harare-Borrowdale,Services,2679.36,1500.31,1.0,0.9994107382992621,Critical Risk,-24.0,1,14,8.5
+T0434,Store_434,P005,Harare-Mt Pleasant,Fashion/Clothing,3765.43,1065.52,1.0,0.9994107382992621,Critical Risk,-32.0,0,14,8.5
+T0214,Store_214,P012,Harare-Suburban,Fashion/Clothing,1400.59,1124.38,1.0,0.9994107382992621,Critical Risk,-30.0,3,14,11.0
+T0096,Store_96,P010,Harare-Westgate,Home Goods,2788.17,2440.62,1.0,0.9994107382992621,Critical Risk,-27.0,2,14,6.5
+T0212,Store_212,P009,Harare-Greendale,Pharmacy/Health,1719.05,1593.68,1.0,0.9994107382992621,Critical Risk,-39.0,0,14,8.5
+T0098,Store_98,P009,Harare-Greendale,Services,3283.45,536.93,1.0,0.9994107382992621,Critical Risk,-30.0,0,14,8.5
+T0210,Store_210,P009,Harare-Greendale,Fashion/Clothing,1912.95,2082.29,0.9187,0.9994107382992621,Critical Risk,-26.0,1,14,6.5
+T0099,Store_99,P015,Bulawayo,Grocery/Food,1511.21,1080.34,1.0,0.9994107382992621,Critical Risk,-27.0,0,14,8.5
+T0100,Store_100,P007,Harare-Avondale,Grocery/Food,1725.21,1077.79,1.0,0.9994107382992621,Critical Risk,-37.0,2,14,8.5
+T0431,Store_431,P009,Harare-Greendale,Pharmacy/Health,1493.18,1433.09,1.0,0.9994107382992621,Critical Risk,-31.0,2,14,8.5
+T0206,Store_206,P003,Harare-Chisipite,Pharmacy/Health,8331.04,1949.28,1.0,0.9994107382992621,Critical Risk,-35.0,1,14,6.5
+T0428,Store_428,P008,Harare-Greenfield,Pharmacy/Health,3402.45,610.13,1.0,0.9994107382992621,Critical Risk,-25.0,2,14,8.5
+T0422,Store_422,P008,Harare-Greenfield,Fashion/Clothing,3389.88,3428.67,0.9887,0.9994107382992621,Critical Risk,-25.0,2,14,6.5
+T0203,Store_203,P011,Harare-Groombridge,Mobile/Telecom,2911.7,6927.38,0.4203,0.9994107382992621,Critical Risk,-25.0,1,14,6.5
+T0299,Store_299,P012,Harare-Suburban,Services,1922.88,1162.05,1.0,0.9994107382992621,Critical Risk,-34.0,1,14,8.5
+T0382,Store_382,P007,Harare-Avondale,Services,1655.26,4091.6,0.4046,0.9994107382992621,Critical Risk,-38.0,1,14,6.5
+T0107,Store_107,P013,Harare CBD,Fashion/Clothing,1807.66,2265.49,0.7979,0.9994107382992621,Critical Risk,-30.0,2,14,6.5
+T0109,Store_109,P008,Harare-Greenfield,Home Goods,2227.51,3383.72,0.6583,0.9994107382992621,Critical Risk,-40.0,1,14,6.5
+T0385,Store_385,P011,Harare-Groombridge,Fashion/Clothing,4001.53,1911.09,1.0,0.9994107382992621,Critical Risk,-36.0,0,14,6.5
+T0421,Store_421,P009,Harare-Greendale,Home Goods,1680.58,1602.0,1.0,0.9994107382992621,Critical Risk,-33.0,0,14,8.5
+T0388,Store_388,P015,Bulawayo,Fashion/Clothing,1775.58,3258.9,0.5448,0.9994107382992621,Critical Risk,-24.0,1,14,6.5
+T0420,Store_420,P001,Harare-Borrowdale,Home Goods,5192.24,1011.89,1.0,0.9994107382992621,Critical Risk,-47.0,0,14,8.5
+T0116,Store_116,P009,Harare-Greendale,Services,1786.3,2442.53,0.7313,0.9994107382992621,Critical Risk,-32.0,1,14,6.5
+T0419,Store_419,P003,Harare-Chisipite,Electronics,2530.1,6727.83,0.3761,0.9994107382992621,Critical Risk,-46.0,3,14,9.0
+T0119,Store_119,P014,Harare CBD,Home Goods,2396.93,5010.91,0.4783,0.9994107382992621,Critical Risk,-16.0,0,14,6.5
+T0301,Store_301,P002,Harare-Borrowdale,Fashion/Clothing,2989.39,2266.23,1.0,0.9994107382992621,Critical Risk,-32.0,2,14,6.5
+T0162,Store_162,P009,Harare-Greendale,Mobile/Telecom,2256.91,5084.17,0.4439,0.9994107382992621,Critical Risk,-43.0,1,14,6.5
+T0323,Store_323,P012,Harare-Suburban,Grocery/Food,1048.5,791.26,1.0,0.9993979816372197,Critical Risk,-26.0,1,14,8.5
+T0328,Store_328,P013,Harare CBD,Fashion/Clothing,1109.35,3207.25,0.3459,0.9993979816372197,Critical Risk,-34.0,2,14,6.5
+T0500,Store_500,P012,Harare-Suburban,Services,1096.29,2258.93,0.4853,0.9993979816372197,Critical Risk,-19.0,2,14,6.5
+T0410,Store_410,P003,Harare-Chisipite,Grocery/Food,1714.57,892.12,1.0,0.9993979816372197,Critical Risk,-14.0,0,14,8.5
+T0141,Store_141,P011,Harare-Groombridge,Services,1046.3,2031.45,0.5151,0.9993979816372197,Critical Risk,-45.0,0,14,6.5
+T0007,Store_7,P007,Harare-Avondale,Services,1114.77,4188.21,0.2662,0.9993979816372197,Critical Risk,-48.0,1,14,6.5
+T0488,Store_488,P009,Harare-Greendale,Services,997.85,1928.54,0.5174,0.9993979816372197,Critical Risk,-44.0,3,14,9.0
+T0484,Store_484,P015,Bulawayo,Fashion/Clothing,779.97,854.36,0.9129,0.9993979816372197,Critical Risk,-25.0,2,14,8.5
+T0483,Store_483,P015,Bulawayo,Home Goods,957.74,3412.4,0.2807,0.9993979816372197,Critical Risk,-35.0,0,14,6.5
+T0030,Store_30,P007,Harare-Avondale,Pharmacy/Health,961.76,1710.76,0.5622,0.9993979816372197,Critical Risk,-31.0,2,14,8.5
+T0471,Store_471,P002,Harare-Borrowdale,Grocery/Food,1455.6,1011.4,1.0,0.9993979816372197,Critical Risk,-30.0,0,14,8.5
+T0065,Store_65,P010,Harare-Westgate,Pharmacy/Health,1023.64,658.35,1.0,0.9993979816372197,Critical Risk,-37.0,0,14,8.5
+T0066,Store_66,P012,Harare-Suburban,Home Goods,1039.72,2245.75,0.463,0.9993979816372197,Critical Risk,-27.0,2,14,6.5
+T0073,Store_73,P014,Harare CBD,Grocery/Food,1120.75,1080.1,1.0,0.9993979816372197,Critical Risk,-47.0,1,14,8.5
+T0081,Store_81,P007,Harare-Avondale,Fashion/Clothing,964.84,3301.21,0.2923,0.9993979816372197,Critical Risk,-38.0,0,14,6.5
+T0084,Store_84,P013,Harare CBD,Services,1398.12,3417.34,0.4091,0.9993979816372197,Critical Risk,-14.0,2,14,6.5
+T0426,Store_426,P012,Harare-Suburban,Fashion/Clothing,945.26,1559.48,0.6061,0.9993979816372197,Critical Risk,-40.0,2,14,8.5
+T0120,Store_120,P015,Bulawayo,Electronics,956.35,2509.52,0.3811,0.9993979816372197,Critical Risk,-38.0,0,14,6.5
+T0350,Store_350,P015,Bulawayo,Pharmacy/Health,750.16,2144.56,0.3498,0.9993979816372197,Critical Risk,-43.0,3,14,9.0
+T0325,Store_325,P015,Bulawayo,Pharmacy/Health,892.72,1308.84,0.6821,0.9993979816372197,Critical Risk,-40.0,1,14,8.5
+T0150,Store_150,P008,Harare-Greenfield,Services,1019.02,3074.21,0.3315,0.9993979816372197,Critical Risk,-48.0,1,14,5.5
+T0245,Store_245,P013,Harare CBD,Grocery/Food,1234.55,1817.38,0.6793,0.9993979816372197,Critical Risk,-25.0,2,14,6.5
+T0402,Store_402,P015,Bulawayo,Services,950.36,1297.22,0.7326,0.9993979816372197,Critical Risk,-44.0,1,14,8.5
+T0390,Store_390,P004,Harare-Northeast,Home Goods,1669.59,2131.16,0.7834,0.9993979816372197,Critical Risk,-43.0,1,14,6.5
+T0191,Store_191,P003,Harare-Chisipite,Electronics,1583.88,4507.88,0.3514,0.9993979816372197,Critical Risk,-38.0,0,14,6.5
+T0202,Store_202,P002,Harare-Borrowdale,Pharmacy/Health,1494.25,732.75,1.0,0.9993979816372197,Critical Risk,-17.0,0,14,8.5
+T0207,Store_207,P011,Harare-Groombridge,Services,1126.39,1938.17,0.5812,0.9993979816372197,Critical Risk,-48.0,0,14,6.5
+T0268,Store_268,P013,Harare CBD,Pharmacy/Health,1432.33,1015.19,1.0,0.9993979816372197,Critical Risk,-13.0,1,14,8.5
+T0229,Store_229,P011,Harare-Groombridge,Services,1036.79,1764.47,0.5876,0.9993979816372197,Critical Risk,-26.0,1,14,6.5
+T0365,Store_365,P015,Bulawayo,Home Goods,977.11,1222.69,0.7991,0.9993979816372197,Critical Risk,-28.0,2,14,8.5
+T0358,Store_358,P012,Harare-Suburban,Fashion/Clothing,2634.4,4534.32,0.581,0.9993943503275959,Critical Risk,-14.0,1,14,6.5
+T0486,Store_486,P011,Harare-Groombridge,Grocery/Food,2018.87,1671.39,1.0,0.9993943503275959,Critical Risk,-34.0,1,14,8.5
+T0468,Store_468,P006,Harare-Chisipite,Pharmacy/Health,2506.88,2115.0,1.0,0.9993943503275959,Critical Risk,-26.0,3,14,9.0
+T0371,Store_371,P002,Harare-Borrowdale,Pharmacy/Health,2929.99,2793.3,1.0,0.9993943503275959,Critical Risk,-28.0,0,14,6.5
+T0403,Store_403,P005,Harare-Mt Pleasant,Pharmacy/Health,2892.09,2392.9,1.0,0.9993943503275959,Critical Risk,-31.0,0,14,6.5
+T0341,Store_341,P006,Harare-Chisipite,Fashion/Clothing,2676.1,5283.16,0.5065,0.9993943503275959,Critical Risk,-32.0,2,14,6.5
+T0345,Store_345,P008,Harare-Greenfield,Fashion/Clothing,3664.61,3827.31,0.9575,0.9993943503275959,Critical Risk,-47.0,0,14,6.5
+T0001,Store_1,P010,Harare-Westgate,Fashion/Clothing,1991.06,2394.88,0.8314,0.9993943503275959,Critical Risk,-24.0,1,14,6.5
+T0317,Store_317,P014,Harare CBD,Services,2579.31,7230.67,0.3567,0.9993943503275959,Critical Risk,-46.0,1,14,6.5
+T0197,Store_197,P009,Harare-Greendale,Pharmacy/Health,3179.68,1789.64,1.0,0.9993943503275959,Critical Risk,-38.0,1,14,6.5
+T0103,Store_103,P001,Harare-Borrowdale,Fashion/Clothing,4798.42,2081.27,1.0,0.9993943503275959,Critical Risk,-34.0,2,14,6.5
+T0266,Store_266,P013,Harare CBD,Fashion/Clothing,4293.84,2631.39,1.0,0.9993943503275959,Critical Risk,-34.0,2,14,6.5
+T0105,Store_105,P001,Harare-Borrowdale,Services,5864.69,2523.75,1.0,0.9993943503275959,Critical Risk,-27.0,0,14,6.5
+T0034,Store_34,P010,Harare-Westgate,Fashion/Clothing,2133.64,3812.88,0.5596,0.9993943503275959,Critical Risk,-46.0,0,14,6.5
+T0211,Store_211,P003,Harare-Chisipite,Electronics,5103.98,7020.69,0.727,0.9993943503275959,Critical Risk,-31.0,0,14,6.5
+T0239,Store_239,P013,Harare CBD,Grocery/Food,8813.9,2657.2,1.0,0.9993943503275959,Critical Risk,-48.0,3,14,9.0
+T0298,Store_298,P013,Harare CBD,Electronics,2311.62,6552.23,0.3528,0.9993943503275959,Critical Risk,-31.0,0,14,6.5
+T0077,Store_77,P013,Harare CBD,Home Goods,5014.12,2647.06,1.0,0.9993943503275959,Critical Risk,-18.0,1,14,6.5
+T0306,Store_306,P009,Harare-Greendale,Fashion/Clothing,1916.84,4758.82,0.4028,0.9993943503275959,Critical Risk,-34.0,1,14,6.5
+T0189,Store_189,P008,Harare-Greenfield,Pharmacy/Health,1698.47,1690.93,1.0,0.9993943503275959,Critical Risk,-47.0,2,14,8.5
+T0311,Store_311,P012,Harare-Suburban,Fashion/Clothing,3236.2,2376.51,1.0,0.9993943503275959,Critical Risk,-38.0,1,14,6.5
+T0167,Store_167,P003,Harare-Chisipite,Pharmacy/Health,6991.26,2429.77,1.0,0.9993943503275959,Critical Risk,-25.0,0,14,5.5
+T0334,Store_334,P004,Harare-Northeast,Electronics,6142.52,11709.41,0.5246,0.9993894657937262,Critical Risk,-39.0,0,14,6.5
+T0106,Store_106,P003,Harare-Chisipite,Fashion/Clothing,7593.45,6294.45,1.0,0.9993894302948008,Critical Risk,-24.0,0,14,6.5
+T0085,Store_85,P014,Harare CBD,Grocery/Food,1817.56,2077.1,0.875,0.9993894302948008,Critical Risk,-43.0,1,14,6.5
+T0097,Store_97,P014,Harare CBD,Grocery/Food,2129.58,2660.4,0.8005,0.9993894302948008,Critical Risk,-24.0,1,14,6.5
+T0101,Store_101,P004,Harare-Northeast,Fashion/Clothing,4031.58,8401.31,0.4799,0.9993894302948008,Critical Risk,-36.0,2,14,6.5
+T0104,Store_104,P014,Harare CBD,Grocery/Food,4736.69,2546.88,1.0,0.9993894302948008,Critical Risk,-44.0,1,14,6.5
+T0399,Store_399,P012,Harare-Suburban,Fashion/Clothing,1494.9,4206.66,0.3554,0.9993894302948008,Critical Risk,-29.0,0,14,6.5
+T0423,Store_423,P012,Harare-Suburban,Grocery/Food,2788.95,1926.56,1.0,0.9993894302948008,Critical Risk,-35.0,0,14,6.5
+T0118,Store_118,P005,Harare-Mt Pleasant,Fashion/Clothing,6801.92,7613.49,0.8934,0.9993894302948008,Critical Risk,-40.0,3,14,9.0
+T0152,Store_152,P013,Harare CBD,Pharmacy/Health,2291.55,1686.04,1.0,0.9993894302948008,Critical Risk,-32.0,0,14,8.5
+T0123,Store_123,P001,Harare-Borrowdale,Fashion/Clothing,3076.7,6834.48,0.4502,0.9993894302948008,Critical Risk,-19.0,0,14,6.5
+T0417,Store_417,P002,Harare-Borrowdale,Grocery/Food,2734.43,3581.43,0.7635,0.9993894302948008,Critical Risk,-44.0,0,14,6.5
+T0156,Store_156,P003,Harare-Chisipite,Fashion/Clothing,16283.65,8119.69,1.0,0.9993894302948008,Critical Risk,-36.0,2,14,6.5
+T0411,Store_411,P011,Harare-Groombridge,Grocery/Food,1545.91,1639.75,0.9428,0.9993894302948008,Critical Risk,-24.0,3,14,11.0
+T0138,Store_138,P015,Bulawayo,Fashion/Clothing,1891.87,3054.03,0.6195,0.9993894302948008,Critical Risk,-35.0,1,14,6.5
+T0143,Store_143,P013,Harare CBD,Grocery/Food,1611.51,3328.21,0.4842,0.9993894302948008,Critical Risk,-25.0,0,14,6.5
+T0151,Store_151,P004,Harare-Northeast,Mobile/Telecom,9373.84,8211.87,1.0,0.9993894302948008,Critical Risk,-25.0,2,14,6.5
+T0126,Store_126,P004,Harare-Northeast,Fashion/Clothing,2799.11,5116.08,0.5471,0.9993894302948008,Critical Risk,-35.0,1,14,6.5
+T0449,Store_449,P003,Harare-Chisipite,Home Goods,2742.9,7928.25,0.346,0.9993894302948008,Critical Risk,-47.0,1,14,6.5
+T0445,Store_445,P005,Harare-Mt Pleasant,Fashion/Clothing,5001.86,2361.84,1.0,0.9993894302948008,Critical Risk,-45.0,3,14,9.0
+T0076,Store_76,P013,Harare CBD,Fashion/Clothing,2907.84,3055.85,0.9516,0.9993894302948008,Critical Risk,-25.0,3,14,9.0
+T0011,Store_11,P005,Harare-Mt Pleasant,Fashion/Clothing,2642.83,4629.33,0.5709,0.9993894302948008,Critical Risk,-40.0,3,14,9.0
+T0495,Store_495,P006,Harare-Chisipite,Fashion/Clothing,2721.93,4425.18,0.6151,0.9993894302948008,Critical Risk,-29.0,0,14,6.5
+T0493,Store_493,P008,Harare-Greenfield,Pharmacy/Health,2654.92,2817.68,0.9422,0.9993894302948008,Critical Risk,-38.0,0,14,6.5
+T0017,Store_17,P005,Harare-Mt Pleasant,Fashion/Clothing,3041.76,5254.9,0.5788,0.9993894302948008,Critical Risk,-31.0,1,14,6.5
+T0490,Store_490,P012,Harare-Suburban,Grocery/Food,2057.65,2213.78,0.9295,0.9993894302948008,Critical Risk,-30.0,0,14,6.5
+T0489,Store_489,P001,Harare-Borrowdale,Fashion/Clothing,8399.83,6593.59,1.0,0.9993894302948008,Critical Risk,-40.0,1,14,6.5
+T0020,Store_20,P003,Harare-Chisipite,Fashion/Clothing,2518.65,6370.86,0.3953,0.9993894302948008,Critical Risk,-32.0,0,14,6.5
+T0025,Store_25,P013,Harare CBD,Home Goods,2997.18,5361.98,0.559,0.9993894302948008,Critical Risk,-13.0,1,14,6.5
+T0026,Store_26,P002,Harare-Borrowdale,Home Goods,3059.06,5876.57,0.5206,0.9993894302948008,Critical Risk,-47.0,1,14,6.5
+T0481,Store_481,P002,Harare-Borrowdale,Fashion/Clothing,5684.22,3035.22,1.0,0.9993894302948008,Critical Risk,-36.0,1,14,6.5
+T0480,Store_480,P014,Harare CBD,Pharmacy/Health,2184.63,3897.53,0.5605,0.9993894302948008,Critical Risk,-25.0,1,14,6.5
+T0479,Store_479,P002,Harare-Borrowdale,Fashion/Clothing,2152.49,4615.93,0.4663,0.9993894302948008,Critical Risk,-29.0,1,14,6.5
+T0469,Store_469,P005,Harare-Mt Pleasant,Fashion/Clothing,4068.67,8166.03,0.4982,0.9993894302948008,Critical Risk,-36.0,1,14,6.5
+T0041,Store_41,P012,Harare-Suburban,Fashion/Clothing,1362.55,2871.46,0.4745,0.9993894302948008,Critical Risk,-18.0,3,14,9.0
+T0042,Store_42,P012,Harare-Suburban,Fashion/Clothing,1746.16,6753.92,0.2585,0.9993894302948008,Critical Risk,-46.0,1,14,6.5
+T0464,Store_464,P009,Harare-Greendale,Grocery/Food,1794.09,3506.96,0.5116,0.9993894302948008,Critical Risk,-16.0,3,14,9.0
+T0043,Store_43,P013,Harare CBD,Grocery/Food,2218.25,3099.85,0.7156,0.9993894302948008,Critical Risk,-47.0,0,14,6.5
+T0052,Store_52,P012,Harare-Suburban,Grocery/Food,1784.19,1547.26,1.0,0.9993894302948008,Critical Risk,-20.0,0,14,8.5
+T0056,Store_56,P001,Harare-Borrowdale,Fashion/Clothing,2669.88,6257.09,0.4267,0.9993894302948008,Critical Risk,-42.0,0,14,6.5
+T0457,Store_457,P001,Harare-Borrowdale,Fashion/Clothing,9004.55,7504.36,1.0,0.9993894302948008,Critical Risk,-26.0,2,14,6.5
+T0451,Store_451,P014,Harare CBD,Grocery/Food,1673.89,1887.3,0.8869,0.9993894302948008,Critical Risk,-24.0,0,14,6.5
+T0180,Store_180,P001,Harare-Borrowdale,Pharmacy/Health,2400.29,3799.7,0.6317,0.9993894302948008,Critical Risk,-31.0,1,14,6.5
+T0064,Store_64,P013,Harare CBD,Grocery/Food,4333.69,2018.94,1.0,0.9993894302948008,Critical Risk,-42.0,1,14,6.5
+T0176,Store_176,P009,Harare-Greendale,Pharmacy/Health,2106.52,3023.14,0.6968,0.9993894302948008,Critical Risk,-27.0,1,14,6.5
+T0248,Store_248,P003,Harare-Chisipite,Fashion/Clothing,5334.98,4868.97,1.0,0.9993894302948008,Critical Risk,-36.0,1,14,6.5
+T0185,Store_185,P002,Harare-Borrowdale,Grocery/Food,5312.41,2523.62,1.0,0.9993894302948008,Critical Risk,-32.0,2,14,6.5
+T0205,Store_205,P008,Harare-Greenfield,Fashion/Clothing,4087.13,4652.37,0.8785,0.9993894302948008,Critical Risk,-33.0,1,14,6.5
+T0363,Store_363,P006,Harare-Chisipite,Fashion/Clothing,4061.31,2499.54,1.0,0.9993894302948008,Critical Risk,-14.0,1,14,6.5
+T0241,Store_241,P002,Harare-Borrowdale,Grocery/Food,2885.6,5420.07,0.5324,0.9993894302948008,Critical Risk,-14.0,1,14,6.5
+T0271,Store_271,P010,Harare-Westgate,Grocery/Food,1592.58,1355.11,1.0,0.9993894302948008,Critical Risk,-23.0,0,14,8.5
+T0272,Store_272,P004,Harare-Northeast,Grocery/Food,2241.94,7197.91,0.3115,0.9993894302948008,Critical Risk,-47.0,3,14,9.0
+T0274,Store_274,P011,Harare-Groombridge,Fashion/Clothing,1745.83,4243.91,0.4114,0.9993894302948008,Critical Risk,-25.0,0,14,6.5
+T0369,Store_369,P007,Harare-Avondale,Grocery/Food,1434.16,1528.44,0.9383,0.9993894302948008,Critical Risk,-18.0,0,14,8.5
+T0347,Store_347,P002,Harare-Borrowdale,Grocery/Food,10122.22,4541.44,1.0,0.9993894302948008,Critical Risk,-25.0,1,14,6.5
+T0373,Store_373,P002,Harare-Borrowdale,Grocery/Food,3499.56,4500.47,0.7776,0.9993894302948008,Critical Risk,-19.0,1,14,6.5
+T0297,Store_297,P013,Harare CBD,Fashion/Clothing,2989.45,5683.75,0.526,0.9993894302948008,Critical Risk,-15.0,0,14,6.5
+T0213,Store_213,P002,Harare-Borrowdale,Services,2338.67,4228.74,0.553,0.9993894302948008,Critical Risk,-25.0,1,14,6.5
+T0376,Store_376,P001,Harare-Borrowdale,Pharmacy/Health,2662.04,1879.31,1.0,0.9993894302948008,Critical Risk,-30.0,1,14,6.5
+T0340,Store_340,P010,Harare-Westgate,Pharmacy/Health,1627.26,1483.33,1.0,0.9993894302948008,Critical Risk,-24.0,0,14,8.5
+T0338,Store_338,P006,Harare-Chisipite,Fashion/Clothing,2293.91,5717.11,0.4012,0.9993894302948008,Critical Risk,-40.0,0,14,6.5
+T0264,Store_264,P011,Harare-Groombridge,Fashion/Clothing,2739.46,5020.73,0.5456,0.9993894302948008,Critical Risk,-19.0,2,14,6.5
+T0201,Store_201,P005,Harare-Mt Pleasant,Fashion/Clothing,4553.9,5975.77,0.7621,0.9993894302948008,Critical Risk,-30.0,1,14,6.5
+T0195,Store_195,P013,Harare CBD,Fashion/Clothing,8337.31,3445.13,1.0,0.9993894302948008,Critical Risk,-18.0,1,14,6.5
+T0383,Store_383,P013,Harare CBD,Grocery/Food,4365.91,1480.95,1.0,0.9993894302948008,Critical Risk,-25.0,0,14,8.5
+T0384,Store_384,P013,Harare CBD,Grocery/Food,2509.85,2262.84,1.0,0.9993894302948008,Critical Risk,-33.0,1,14,6.5
+T0314,Store_314,P003,Harare-Chisipite,Grocery/Food,6902.89,4881.21,1.0,0.9993894302948008,Critical Risk,-19.0,1,14,6.5
+T0386,Store_386,P004,Harare-Northeast,Grocery/Food,2040.19,4149.75,0.4916,0.9993894302948008,Critical Risk,-26.0,1,14,6.5
+T0367,Store_367,P011,Harare-Groombridge,Electronics,1979.78,5273.36,0.3754,0.9993888558803115,Critical Risk,-45.0,0,14,6.5
+T0135,Store_135,P006,Harare-Chisipite,Fashion/Clothing,1315.04,4869.34,0.2701,0.9993812391093623,Critical Risk,-33.0,1,14,6.5
+T0401,Store_401,P005,Harare-Mt Pleasant,Home Goods,1439.88,4830.97,0.2981,0.9993762126332497,Critical Risk,-38.0,1,14,6.5
+T0055,Store_55,P008,Harare-Greenfield,Pharmacy/Health,1072.68,2141.96,0.5008,0.9993762126332497,Critical Risk,-31.0,0,14,6.5
+T0438,Store_438,P014,Harare CBD,Fashion/Clothing,1495.05,4617.78,0.3238,0.9993762126332497,Critical Risk,-35.0,0,14,6.5
+T0275,Store_275,P006,Harare-Chisipite,Grocery/Food,1318.57,1995.28,0.6608,0.9993762126332497,Critical Risk,-33.0,2,14,6.5
+T0278,Store_278,P005,Harare-Mt Pleasant,Pharmacy/Health,1322.04,4331.28,0.3052,0.9993762126332497,Critical Risk,-30.0,2,14,6.5
+T0008,Store_8,P001,Harare-Borrowdale,Services,1483.15,5659.34,0.2621,0.9993762126332497,Critical Risk,-40.0,1,14,6.5
+T0003,Store_3,P013,Harare CBD,Fashion/Clothing,1395.78,4727.36,0.2953,0.9993762126332497,Critical Risk,-24.0,1,14,6.5
+T0083,Store_83,P004,Harare-Northeast,Fashion/Clothing,1579.76,4589.22,0.3442,0.9993762126332497,Critical Risk,-22.0,2,14,6.5
+T0115,Store_115,P005,Harare-Mt Pleasant,Pharmacy/Health,1698.96,2516.89,0.675,0.9993762126332497,Critical Risk,-46.0,2,14,6.5
+T0330,Store_330,P004,Harare-Northeast,Pharmacy/Health,1662.86,5724.35,0.2905,0.9993762126332497,Critical Risk,-34.0,1,14,6.5
+T0144,Store_144,P002,Harare-Borrowdale,Grocery/Food,1632.18,4905.48,0.3327,0.9993762126332497,Critical Risk,-40.0,1,14,6.5
+T0377,Store_377,P003,Harare-Chisipite,Grocery/Food,1335.35,1875.6,0.712,0.9993762126332497,Critical Risk,-27.0,1,14,6.5
+T0142,Store_142,P014,Harare CBD,Grocery/Food,1116.01,3182.34,0.3507,0.9993762126332497,Critical Risk,-37.0,0,14,6.5
+T0356,Store_356,P004,Harare-Northeast,Home Goods,1479.16,3450.38,0.4287,0.9993762126332497,Critical Risk,-32.0,2,14,6.5
+T0470,Store_470,P005,Harare-Mt Pleasant,Electronics,3163.52,9906.12,0.3194,0.9993731755284241,Critical Risk,-60.0,1,14,6.5
+T0227,Store_227,P006,Harare-Chisipite,Electronics,7590.08,9499.71,0.799,0.9993731755284241,Critical Risk,-52.0,0,14,6.5
+T0295,Store_295,P002,Harare-Borrowdale,Electronics,9114.07,12915.2,0.7057,0.9993604228124155,Critical Risk,-44.0,0,14,5.5
+T0455,Store_455,P014,Harare CBD,Electronics,2968.08,10652.51,0.2786,0.9993576891865984,Critical Risk,-45.0,0,14,6.5
+T0086,Store_86,P001,Harare-Borrowdale,Mobile/Telecom,2553.89,10483.67,0.2436,0.999349715205317,Critical Risk,-45.0,0,14,6.5
+T0021,Store_21,P008,Harare-Greenfield,Electronics,872.23,3627.39,0.2405,0.9993442805621254,Critical Risk,-58.0,1,14,6.5
+T0079,Store_79,P003,Harare-Chisipite,Electronics,1288.49,5370.24,0.2399,0.9993442805621254,Critical Risk,-39.0,1,14,6.5
+T0234,Store_234,P005,Harare-Mt Pleasant,Electronics,1417.64,5902.16,0.2402,0.9993442805621254,Critical Risk,-40.0,2,14,6.5
+T0187,Store_187,P014,Harare CBD,Mobile/Telecom,2599.3,10436.66,0.2491,0.9993314075851729,Critical Risk,-32.0,1,14,6.5
+T0387,Store_387,P002,Harare-Borrowdale,Electronics,3802.37,8856.98,0.4293,0.9993182043898485,Critical Risk,-24.0,1,14,6.5
+T0476,Store_476,P001,Harare-Borrowdale,Electronics,2251.1,8565.92,0.2628,0.9993182043898485,Critical Risk,-48.0,0,14,6.5
+T0349,Store_349,P014,Harare CBD,Electronics,6789.74,9743.74,0.6968,0.9993049346178055,Critical Risk,-31.0,0,14,6.5
+T0016,Store_16,P015,Bulawayo,Electronics,1355.76,5479.26,0.2474,0.9993018886246361,Critical Risk,-34.0,0,14,6.5
+T0332,Store_332,P004,Harare-Northeast,Electronics,5140.69,19096.34,0.2692,0.9992997248303567,Critical Risk,-54.0,1,14,6.5
+T0475,Store_475,P013,Harare CBD,Fashion/Clothing,4363.76,1132.87,1.0,0.9992797836759272,Critical Risk,-7.0,3,14,11.0
+T0324,Store_324,P012,Harare-Suburban,Fashion/Clothing,1784.73,4098.92,0.4354,0.9992797836759272,Critical Risk,-7.0,1,14,6.5
+T0208,Store_208,P012,Harare-Suburban,Electronics,2049.91,7017.01,0.2921,0.9992581374761091,Critical Risk,-52.0,0,14,6.5
+T0429,Store_429,P012,Harare-Suburban,Services,4461.83,2284.94,1.0,0.9992367839454837,Critical Risk,-9.0,1,14,6.5
+T0024,Store_24,P007,Harare-Avondale,Services,3920.17,1237.89,1.0,0.9992367839454837,Critical Risk,-11.0,2,14,8.5
+T0226,Store_226,P015,Bulawayo,Fashion/Clothing,1998.62,1937.42,1.0,0.9992367839454837,Critical Risk,-11.0,3,14,9.0
+T0478,Store_478,P005,Harare-Mt Pleasant,Grocery/Food,8314.9,1464.66,1.0,0.9992367839454837,Critical Risk,-12.0,1,14,8.5
+T0094,Store_94,P015,Bulawayo,Home Goods,2414.04,1925.48,1.0,0.9992367839454837,Critical Risk,-12.0,1,14,6.5
+T0112,Store_112,P004,Harare-Northeast,Services,3808.47,2865.64,1.0,0.9992155619222325,Critical Risk,-12.0,0,14,6.5
+T0442,Store_442,P003,Harare-Chisipite,Pharmacy/Health,5885.6,1740.1,1.0,0.9992091906399692,Critical Risk,-12.0,1,14,6.5
+T0148,Store_148,P004,Harare-Northeast,Grocery/Food,2669.7,4170.83,0.6401,0.9992091906399692,Critical Risk,-12.0,1,14,6.5
+T0244,Store_244,P014,Harare CBD,Grocery/Food,3344.05,2712.67,1.0,0.9992091906399692,Critical Risk,-11.0,1,14,6.5
+T0057,Store_57,P004,Harare-Northeast,Grocery/Food,4042.46,2427.93,1.0,0.9992091906399692,Critical Risk,-12.0,3,14,9.0
+T0058,Store_58,P013,Harare CBD,Grocery/Food,1445.2,3061.41,0.4721,0.9991920742903562,Critical Risk,-12.0,1,14,6.5
+T0062,Store_62,P002,Harare-Borrowdale,Pharmacy/Health,1548.58,3739.79,0.4141,0.9991920742903562,Critical Risk,-10.0,2,14,6.5
+T0454,Store_454,P014,Harare CBD,Electronics,3225.71,11951.88,0.2699,0.9991807160580619,Critical Risk,-29.0,1,14,6.5
+T0462,Store_462,P009,Harare-Greendale,Electronics,6456.96,12494.08,0.5168,0.9991586514137485,Critical Risk,-51.0,1,14,6.5
+T0209,Store_209,P013,Harare CBD,Mobile/Telecom,12964.2,12998.18,0.9974,0.9991571598443405,Critical Risk,-51.0,2,14,6.5
+T0238,Store_238,P005,Harare-Mt Pleasant,Electronics,3352.55,13651.55,0.2456,0.9991322120132772,Critical Risk,-43.0,1,14,6.5
+T0035,Store_35,P007,Harare-Avondale,Electronics,4188.08,8685.87,0.4822,0.9991305072631593,Critical Risk,-14.0,0,14,5.5
+T0128,Store_128,P011,Harare-Groombridge,Electronics,3223.37,11558.6,0.2789,0.9991086402527026,Critical Risk,-20.0,0,14,6.5
+T0027,Store_27,P015,Bulawayo,Mobile/Telecom,1328.46,5605.72,0.237,0.9990313942559467,Critical Risk,-47.0,0,14,6.5
+T0362,Store_362,P001,Harare-Borrowdale,Electronics,8374.38,21631.29,0.3871,0.9990176141417345,Critical Risk,-36.0,2,14,6.5
+T0216,Store_216,P009,Harare-Greendale,Electronics,3342.88,10851.61,0.3081,0.9990027173682708,Critical Risk,-43.0,1,14,6.5
+T0437,Store_437,P011,Harare-Groombridge,Pharmacy/Health,1658.89,579.72,1.0,0.9987775145234878,Critical Risk,-1.0,2,14,8.5
+T0078,Store_78,P002,Harare-Borrowdale,Fashion/Clothing,4031.88,6993.31,0.5765,0.9987066342886906,Critical Risk,-0.0,1,14,6.5
+T0415,Store_415,P006,Harare-Chisipite,Home Goods,3024.74,8316.45,0.3637,0.9987066342886906,Critical Risk,0.0,1,14,6.5
+T0246,Store_246,P003,Harare-Chisipite,Pharmacy/Health,2214.85,3475.54,0.6373,0.998578826905816,Critical Risk,-4.0,1,14,6.5
+T0046,Store_46,P005,Harare-Mt Pleasant,Electronics,3266.52,14096.39,0.2317,0.998258360306906,Critical Risk,-27.0,1,14,6.5
+T0102,Store_102,P005,Harare-Mt Pleasant,Electronics,2070.71,7948.89,0.2605,0.9981664015384799,Critical Risk,-51.0,3,14,9.0
+T0343,Store_343,P006,Harare-Chisipite,Fashion/Clothing,2140.1,9225.45,0.232,0.9980559106958499,Critical Risk,-18.0,2,14,6.5
+T0022,Store_22,P002,Harare-Borrowdale,Mobile/Telecom,1437.73,6555.72,0.2193,0.9973429501428198,Critical Risk,-45.0,0,14,6.5
+T0287,Store_287,P010,Harare-Westgate,Electronics,975.58,4386.2,0.2224,0.9973070304548403,Critical Risk,-41.0,0,14,6.5
+T0427,Store_427,P011,Harare-Groombridge,Services,1104.43,5339.27,0.2069,0.9967227920435627,Critical Risk,-48.0,2,14,6.5
+T0165,Store_165,P001,Harare-Borrowdale,Electronics,3027.68,12938.0,0.234,0.9967074227268483,Critical Risk,-58.0,1,14,6.5
+T0282,Store_282,P009,Harare-Greendale,Fashion/Clothing,874.68,4114.66,0.2126,0.995424530932709,Critical Risk,-28.0,1,14,6.5
+T0492,Store_492,P009,Harare-Greendale,Electronics,1798.64,8293.97,0.2169,0.994697513735164,Critical Risk,-51.0,1,14,6.5
+T0170,Store_170,P005,Harare-Mt Pleasant,Electronics,2643.53,12827.55,0.2061,0.9946388131290415,Critical Risk,-31.0,0,14,6.5
+T0368,Store_368,P010,Harare-Westgate,Fashion/Clothing,1078.17,5198.25,0.2074,0.9936042507524268,Critical Risk,-46.0,0,14,6.5
+T0312,Store_312,P008,Harare-Greenfield,Electronics,1420.48,6648.46,0.2137,0.984591637049154,Critical Risk,-26.0,0,14,6.5
+T0029,Store_29,P004,Harare-Northeast,Mobile/Telecom,2280.42,10295.08,0.2215,0.9814625963902844,Critical Risk,-15.0,1,14,6.5
+T0466,Store_466,P015,Bulawayo,Electronics,939.26,4814.42,0.1951,0.9575350334916836,Critical Risk,-29.0,3,14,9.0
+T0090,Store_90,P012,Harare-Suburban,Electronics,947.35,6007.32,0.1577,0.9448337165733565,Critical Risk,-43.0,0,14,6.5
+T0473,Store_473,P008,Harare-Greenfield,Electronics,2230.75,12937.47,0.1724,0.8736172332597162,Critical Risk,-57.0,0,14,6.5
+T0072,Store_72,P002,Harare-Borrowdale,Electronics,2813.83,14289.3,0.1969,0.789974057227791,High Risk,-12.0,0,14,6.5
+T0395,Store_395,P001,Harare-Borrowdale,Fashion/Clothing,2039.69,10614.94,0.1922,0.7430130642078752,High Risk,-39.0,0,14,6.5
+T0283,Store_283,P003,Harare-Chisipite,Mobile/Telecom,2959.58,15447.04,0.1916,0.719528442261718,High Risk,-26.0,0,14,6.5
