@@ -105,16 +105,29 @@ jupyter notebook notebooks/06_dashboard_creation.ipynb
 ## 📁 Outputs
 
 ### Visualizations
-- 12-panel EDA analysis
+
+### 12-panel EDA analysis
+![12-panel EDA analysis](outputs/zimbabwe_eda_analysis.png)
+
 - Feature correlation heatmaps
-- Model performance charts
-- Time-series trend analysis
+
+### Model performance charts
+![Model performance charts](outputs/model_performance_analysis.png)
+
+### Time-series trend analysis
+![Time-series trend analysis](outputs/timeseries_trends_dashboard.html)
 
 ### Interactive Dashboards
 - Main comprehensive dashboard
-- Executive summary (KPIs)
-- Property-level performance
-- Time-series trends (2022-2025)
+
+### Executive summary (KPIs)
+![Executive summary](outputs/executive_summary_dashboard.html)
+  
+### Property-level performance
+![Property-level performance](outputs/property_level_dashboard.html)
+
+### Time-series trends (2022-2025)
+![Time-series trends](outputs/timeseries_trends_dashboard.html)
 
 ### Reports
 - All tenant predictions with churn scores
