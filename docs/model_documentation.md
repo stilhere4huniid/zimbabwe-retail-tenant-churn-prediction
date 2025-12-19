@@ -332,30 +332,39 @@ print(f"CV AUC-ROC: {cv_scores.mean():.3f} (+/- {cv_scores.std():.3f})")
 ### Evaluation Metrics
 
 #### Overall Performance
--Model: Random Forest
--AUC-ROC: 0.86
--Accuracy: 86%
--Precision: 0.84
--Recall: 0.82
--F1 Score: 0.83
+```
+Model: Random Forest
+AUC-ROC: 0.86
+Accuracy: 86%
+Precision: 0.84
+Recall: 0.82
+F1 Score: 0.83
+```
 
 #### Confusion Matrix
+```
+                Predicted
+                Active  Churned
 Actual Active    4,080    120
 Actual Churned     180    620
+
 True Positives:  620 (Correctly identified churns)
 True Negatives:  4,080 (Correctly identified active)
 False Positives: 120 (False alarms)
 False Negatives: 180 (Missed churns)
+```
 
 #### Classification Report
-precision  recall  f1-score  support
+```
+              precision  recall  f1-score  support
 
-  Active       0.96    0.97      0.96     4200
- Churned       0.84    0.78      0.81      800
+      Active       0.96    0.97      0.96     4200
+     Churned       0.84    0.78      0.81      800
 
-accuracy                         0.94     5000
-macro avg       0.90    0.87      0.89    5000
-weighted avg       0.94    0.94    0.94   5000
+    accuracy                         0.94     5000
+   macro avg       0.90    0.87      0.89     5000
+weighted avg       0.94    0.94      0.94     5000
+```
 
 ### Feature Importance (Top 15)
 
@@ -434,4 +443,5 @@ def predict_churn(tenant_features):
     
     model = model_pkg['model']
     scaler = model_pkg['scaler']
+
     feature_cols = model_pkg['
