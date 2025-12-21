@@ -152,7 +152,7 @@ jupyter notebook notebooks/06_dashboard_creation.ipynb
 ## 👨‍💻 Author
 
 **Adonis Chiruka**
-- 📧 Email: stilhere4huniid@gmail.com
+- 📧 Email: stillhere4huniid@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/adonis-chiruka-70b265323
 
 ## 📄 License
